@@ -1,0 +1,13 @@
+h1 {
+
+	font-family:'Indie Flower';
+	
+	background-size: 50%;
+	
+	position: absolute;
+
+}
+
+div:hover {
+  background: #e3e3e3;
+}
